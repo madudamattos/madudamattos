@@ -17,6 +17,6 @@ My name is Maria Eduarda Mattos and welcome to my GitHub!
 
 You can also find me on...
 
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mariaeduardanmattos@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram)](https://instagram.com/madunmattos)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-mattos-42821327b/)
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariaeduardanmattos@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram)](https://instagram.com/madunmattos)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-mattos-42821327b/)
