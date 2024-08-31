@@ -3,7 +3,7 @@
 </h1>
 <p align="left">
 
-<img src="https://pa1.aminoapps.com/5776/b81cb72ae0d24b689d732e9a21b31c4204cbd445_00.gif" alt="GIF" width="300px" align="right"/>
+<img src="https://pa1.aminoapps.com/5776/b81cb72ae0d24b689d732e9a21b31c4204cbd445_00.gif" alt="GIF" width="260px" align="right"/>
    
 
 My name is Maria Eduarda Mattos and welcome to my GitHub!  
