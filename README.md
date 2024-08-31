@@ -1,5 +1,3 @@
-## Hey! 👋, I am Madu!
-
 <h1 align="left">
    Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I am Madu!
 </h1>
