@@ -12,7 +12,6 @@ My name is Maria Eduarda Mattos and welcome to my GitHub!
 - 🧑‍💻 Researcher at HCS Laboratory 
 - 🎮 Gamer and aspiring game developer
 - 🕶️ Currently focused on development for AR/VR
-- 🌟 Enthusiast in computer graphics and computer vision
 - 💬 Suggestions are always welcome!
 
 You can also find me on...
