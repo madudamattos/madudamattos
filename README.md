@@ -3,7 +3,7 @@
 </h1>
 
 <p align="left">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRyYTdtOGtmcGJ5ZTI3NzZvaTdmN3B2cXJ2bHdnOHZteXBjN3VqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif" alt="Animated GIF" width="260px" align="right"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRyYTdtOGtmcGJ5ZTI3NzZvaTdmN3B2cXJ2bHdnOHZteXBjN3VqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif" alt="Animated GIF" width="300px" align="right"/>
 </p>
 
 My name is Maria Eduarda Mattos and welcome to my GitHub!
