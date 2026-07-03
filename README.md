@@ -10,7 +10,7 @@ My name is Maria Eduarda Mattos and welcome to my GitHub!
 
 - 📚 Computer Science student at Ufes
 - 🔬 Researcher in HCI and Serious Games
-- 👾 Gamer and game developer
+- 👾 Gamer and Unity game developer
 - 🧑‍💻 Focused on AR/VR development
 - 🥽 Tech support for VR/AR experiences
 - 💬 Suggestions are always welcome!
